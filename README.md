@@ -8,6 +8,7 @@
 - [✨ Features](#-features)
 - [🎮 How to Play](#-how-to-play)
 - [🎯 Game Controls](#-game-controls)
+- [🚀 Installation Guide](#-installation-guide)
 - [🕹️ Game Mechanics](#-game-mechanics)
 - [💡 Code Structure](#-code-structure)
 - [🚀 Future Enhancements](#-future-enhancements)
@@ -98,9 +99,7 @@ git clone git@github.com:Raj-Patel7807/Snake_Game.git
 git pull origin main
 ```  
 
----
-
-Enjoy the game! 🐍🔥
+**Enjoy the game! 🐍🔥**
 
 ---
 
